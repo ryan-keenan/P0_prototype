@@ -8,7 +8,7 @@ To do this project, you will need Python 3 along with the numpy, matplotlib, and
 
 Once you have the conda installer, run the following command at the terminal prompt:
 
-yourmachine>  conda install -c https://conda.anaconda.org/menpo opencv3
+yourMachine>  conda install -c https://conda.anaconda.org/menpo opencv3
 
 (If you chose to install miniconda, also run: > conda install jupyter)
 
