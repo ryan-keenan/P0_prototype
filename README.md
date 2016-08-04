@@ -15,8 +15,8 @@ yourMachine>  conda install -c https://conda.anaconda.org/menpo opencv3
 then to test if OpenCV is installed correctly:
 
 yourMachine> python
+
 pythonInterpreter>>> import cv2
-pythonInterpreter>>>
 
 No errors, no problems!
 
