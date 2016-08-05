@@ -4,19 +4,21 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project you will detect lane lines in images using Python and OpenCV.  OpenCV stands for "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.  
 
-1) Getting setup with Python and OpenCV
+### Getting setup with Python and OpenCV
 
 To do this project, you will need Python 3 along with the numpy, matplotlib, and OpenCV libraries, as well as Jupyter Notebook installed. 
 
-We recommend downloading the Anaconda Python distribution from Continuum Analytics (https://www.continuum.io/downloads) because it comes prepackaged with many of the Python dependencies you will need for this and future projects, makes it easy to install OpenCV, and includes Jupyter Notebook.  Alternatively, you can choose to download and install the "minconda" package, which comes with Python and the "conda" installer.
+#### 1. Download the Anaconda Python distribution from [Continuum Analytics](https://www.continuum.io/downloads).
 
-Once you have Anaconda installed, run the following command at the terminal prompt:
+We recommend Anaconda because it comes prepackaged with many of the Python dependencies you will need for this and future projects, makes it easy to install OpenCV, and includes Jupyter Notebook.  Alternatively, you can choose to download and install the "minconda" package, which comes with Python and the "conda" installer.
 
-`>  conda install -c https://conda.anaconda.org/menpo opencv3`
 
-(If you chose to install miniconda, also run: > conda install jupyter)
+#### 2. Run the following command in your terminal
 
-then to test if OpenCV is installed correctly:
+`> conda install -c https://conda.anaconda.org/menpo opencv3`.
+If you chose to install miniconda, run this command as well `> conda install jupyter`
+
+#### 3. Test whether opencv installed successfully by running the following commands in your terminal:
 
 `> python`
 
@@ -25,10 +27,14 @@ then to test if OpenCV is installed correctly:
 `>>>` 
 (Ctrl-d to exit Python)
 
-2) Opening the code in a Jupyter Notebook
+### Getting started on your project
 
-You will complete this project in a Jupyter notebook.  Jupyter is an ipython notebook where you can run blocks of code and see results interactively.  All the code for this project is contained in a Jupyter notebook. To start Jupyter in your browser, run the following command at the terminal prompt:
+You will complete this project in a [Jupyter notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html).  Jupyter is an ipython notebook where you can run blocks of code and see results interactively. To learn more about jupyter, see [here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). To start Jupyter in your browser, do the following in your terminal:
 
-`> jupyter notebook`
+1. `> cd <folder of project>`
 
-A browser window will appear showing the contents of the current directory.  Navigate to the P0\_prototype directory, and click on the file called "P0\_prototype.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
+2. `> jupyter notebook`
+
+3. A browser window will appear showing the contents of the current directory.  Navigate to the `P0\_prototype` directory, and click on the file called `P0\_prototype.ipynb`.  Another browser window will appear displaying the notebook.
+
+4. Follow the instructions in the notebook to complete the project.  
