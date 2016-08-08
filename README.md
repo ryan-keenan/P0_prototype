@@ -1,7 +1,7 @@
 #**Finding Lane Lines on the Road** 
 
 <figure>
- <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
+ <img src="https://github.com/ryan-keenan/P0_prototype/blob/master/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
  <p/>
  <figcaption>
  <p></p> 
