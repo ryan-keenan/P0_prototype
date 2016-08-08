@@ -23,7 +23,9 @@ Once you have Anaconda installed, run the following command at the terminal prom
 
 `>  conda install -c https://conda.anaconda.org/menpo opencv3`
 
-(If you chose to install miniconda, also run: > conda install jupyter)
+If you chose to install miniconda instead, also run: 
+
+`> conda install jupyter`
 
 then to test if OpenCV is installed correctly:
 
