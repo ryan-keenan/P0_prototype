@@ -38,7 +38,7 @@ then to test if OpenCV is installed correctly:
 
 2) Opening the code in a Jupyter Notebook
 
-You will complete this project in a Jupyter notebook.  Jupyter is an ipython notebook where you can run blocks of code and see results interactively.  All the code for this project is contained in a Jupyter notebook. To start Jupyter in your browser, run the following command at the terminal prompt:
+You will complete this project in a Jupyter notebook.  Jupyter is an ipython notebook where you can run blocks of code and see results interactively.  All the code for this project is contained in a Jupyter notebook. To start Jupyter in your browser, run the following command at the terminal prompt (be sure you're in your Python 3 environment!):
 
 `> jupyter notebook`
 
