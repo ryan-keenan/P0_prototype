@@ -1,5 +1,5 @@
 name: carnd-p0
 
 dependencies:
-  - opencv
+  - opencv3
 
