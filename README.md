@@ -1,3 +1,4 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ryan-keenan/p0_prototype)
 #**Finding Lane Lines on the Road** 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
