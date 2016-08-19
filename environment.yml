@@ -1,6 +1,5 @@
 name: carnd-p0
 
 dependencies:
-  - python=3.5
-  - opencv3
+  - opencv
 
