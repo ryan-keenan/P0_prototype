@@ -1,6 +1,7 @@
 name: carnd-p0
 
 dependencies:
-  - Python=2.7
+  - python=2.7
   - opencv
-
+  - numpy
+  - matplotlib
