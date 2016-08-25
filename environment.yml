@@ -5,3 +5,4 @@ dependencies:
   - opencv
   - numpy
   - matplotlib
+  - pil
