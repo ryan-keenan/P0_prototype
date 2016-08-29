@@ -29,7 +29,6 @@ Once you have Anaconda installed, first double check you are in your Python 3 en
 `[GCC 4.2.1 Compatible Apple LLVM 4.2 (clang-425.0.28)] on darwin`  
 `Type "help", "copyright", "credits" or "license" for more information.`  
 `>>>`   
-`>>>` 
 (Ctrl-d to exit Python)
 
 run the following command at the terminal prompt to get OpenCV:
