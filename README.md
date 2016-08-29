@@ -22,7 +22,16 @@ If you already have Anaconda for Python 2 installed, you can create a separate e
 
 **Step 2:** Installing OpenCV
 
-Once you have Anaconda installed, run the following command at the terminal prompt to get OpenCV:
+Once you have Anaconda installed, first double check you are in your Python 3 environment:
+
+`>python`    
+`Python 3.5.2 |Anaconda 4.1.1 (x86_64)| (default, Jul  2 2016, 17:52:12)`  
+`[GCC 4.2.1 Compatible Apple LLVM 4.2 (clang-425.0.28)] on darwin`  
+`Type "help", "copyright", "credits" or "license" for more information.`  
+`>>>`   
+
+
+run the following command at the terminal prompt to get OpenCV:
 
 `>  conda install -c https://conda.anaconda.org/menpo opencv3`
 
