@@ -37,11 +37,9 @@ run the following command at the terminal prompt to get OpenCV:
 
 then to test if OpenCV is installed correctly:
 
-`> python`
-
-`>>> import cv2`
-
-`>>>` 
+`> python`  
+`>>> import cv2`  
+`>>>`  
 (Ctrl-d to exit Python)
 
 **Step 3:** Opening the code in a Jupyter Notebook
