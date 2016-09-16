@@ -19,7 +19,7 @@ If you already have Anaconda for Python 2 installed, you can create a separate e
 
 `>  source activate yourNewEnvironment`
 
-**Step 2:** Installing OpenCV
+**Step 2:** Installing OpenCV and moviepy
 
 Once you have Anaconda installed, first double check you are in your Python 3 environment:
 
@@ -39,6 +39,15 @@ then to test if OpenCV is installed correctly:
 `> python`  
 `>>> import cv2`  
 `>>>`  
+(Ctrl-d to exit Python)
+
+`> pip install moviepy`
+
+then to test if moviepy is installed correctly:
+
+`> python`  
+`>>> from moviepy.editor import VideoFileClip
+`  
 (Ctrl-d to exit Python)
 
 **Step 3:** Opening the code in a Jupyter Notebook
