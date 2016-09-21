@@ -41,7 +41,22 @@ then to test if OpenCV is installed correctly:
 `>>>`  
 (Ctrl-d to exit Python)
 
-**Step 3:** Opening the code in a Jupyter Notebook
+**Step 3:** Installing moviepy  
+
+We recommend the "moviepy" package for processing video in this project (though you're welcome to use other packages if you prefer).  
+
+To install moviepy run:
+
+`>pip install moviepy`  
+
+and check that the install worked:
+
+`>python`  
+`>>>import moviepy`  
+`>>>`  
+(Ctrl-d to exit Python)
+
+**Step 4:** Opening the code in a Jupyter Notebook
 
 You will complete this project in a Jupyter notebook.  If you are unfamiliar with Jupyter Notebooks, check out <A HREF="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/" target="_blank">this link</A> to get started.
 
